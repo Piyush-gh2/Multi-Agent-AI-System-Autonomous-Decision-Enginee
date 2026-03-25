@@ -1,0 +1,81 @@
+[
+  {
+    "id": "doc1",
+    "topic": "AI Benefits",
+    "content": "Artificial Intelligence improves efficiency, automates repetitive tasks, and enhances decision-making in businesses."
+  },
+  {
+    "id": "doc2",
+    "topic": "AI Risks",
+    "content": "AI adoption involves risks such as high implementation cost, data privacy concerns, and model bias."
+  },
+  {
+    "id": "doc3",
+    "topic": "AI in Finance",
+    "content": "AI is widely used in finance for fraud detection, risk assessment, and algorithmic trading."
+  },
+  {
+    "id": "doc4",
+    "topic": "AI in Healthcare",
+    "content": "AI helps in disease prediction, medical imaging, and personalized treatment plans."
+  },
+  {
+    "id": "doc5",
+    "topic": "Cloud Computing",
+    "content": "Cloud platforms enable scalable AI deployment and reduce infrastructure costs."
+  },
+  {
+    "id": "doc6",
+    "topic": "Digital Transformation",
+    "content": "Organizations adopt digital technologies like AI to improve business processes and customer experience."
+  },
+  {
+    "id": "doc7",
+    "topic": "Automation",
+    "content": "Automation powered by AI reduces human effort and increases operational efficiency."
+  },
+  {
+    "id": "doc8",
+    "topic": "Cybersecurity",
+    "content": "AI enhances cybersecurity by detecting threats, anomalies, and potential cyber attacks."
+  },
+  {
+    "id": "doc9",
+    "topic": "AI Cost",
+    "content": "Implementing AI systems requires investment in infrastructure, talent, and maintenance."
+  },
+  {
+    "id": "doc10",
+    "topic": "Business Growth",
+    "content": "AI-driven insights help organizations grow revenue and improve decision-making."
+  }
+]
+
+[
+  {
+    "id": "doc11",
+    "topic": "AI ROI",
+    "content": "Return on investment in AI depends on use case, data quality, and implementation strategy."
+  },
+  {
+    "id": "doc12",
+    "topic": "AI Challenges",
+    "content": "Challenges include lack of skilled professionals, data availability, and integration complexity."
+  },
+  {
+    "id": "doc13",
+    "topic": "AI Future",
+    "content": "AI is expected to transform industries by enabling autonomous systems and intelligent decision-making."
+  },
+  {
+    "id": "doc14",
+    "topic": "DevOps AI",
+    "content": "AI in DevOps improves monitoring, incident prediction, and automated deployment processes."
+  },
+  {
+    "id": "doc15",
+    "topic": "Big Data",
+    "content": "Big data provides the foundation for training AI models and generating insights."
+  }
+]
+
